@@ -11,7 +11,7 @@ Tugas praktik Data Engineering: membaca data dari PostgreSQL dan mengirimkannya 
 ## Cara Menjalankan
 1. `docker compose up -d postgres zookeeper kafka jupyter`
 2. Buat tabel `crypto_price` di database `streaming_db`.
-3. Buka `Nurfaudzan_PostgreSQL_to_Kafka.ipynb`, jalankan cell 1–5.
+3. Buka `username_PostgreSQL_to_Kafka.ipynb`, jalankan cell 1–5.
 
 ## Struktur
 - Cell 1: instalasi `kafka-python`
